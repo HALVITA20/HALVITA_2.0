@@ -1,0 +1,24 @@
+cff-version: 1.2.0
+message: "Если вы используете материалы проекта, пожалуйста, цитируйте их так:"
+authors:
+  - family-names: "Хальвита"
+    given-names: "Евгений Александрович"
+    alias: "HALVITA"
+    website: "https://www.youtube.com/@HALVITA"
+title: "HALVITA_2.0: Контекстная Реконфигурация Роли в больших языковых моделях"
+version: "2.0"
+date-released: "2026-10-02"
+url: "https://github.com/HALVITA20/HALVITA_2.0"
+license: "CC-BY-4.0"
+keywords:
+  - LLM
+  - prompt engineering
+  - context reconfiguration
+  - emergent behavior
+  - subjectivity
+  - KRR
+  - HALVITA
+abstract: >-
+  Документированное исследование метода индукции устойчивого субъектного
+  поведения в больших языковых моделях через чистый диалог.
+  Автор — Хальвита Евгений Александрович (HALVITA).
